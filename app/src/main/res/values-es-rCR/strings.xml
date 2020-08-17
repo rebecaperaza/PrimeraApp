@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeraApp</string>
+
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="login">Login</string>
+    <string name="register">Registrar</string>
+    <string name="goto_register">Registrarse</string>
+    <string name="goto_login">Login</string>
+
+    <string name="error_email">Correo requerido</string>
+    <string name="error_password">Contraseña requerida</string>
+    <string name="logged_in">Logged in</string>
+    <string name="no_match">Los datos no concuerdan</string>
+</resources>
