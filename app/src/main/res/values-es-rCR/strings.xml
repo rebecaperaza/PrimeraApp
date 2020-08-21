@@ -14,4 +14,10 @@
     <string name="error_password">Contraseña requerida</string>
     <string name="logged_in">Logged in</string>
     <string name="no_match">Los datos no concuerdan</string>
+
+    <string name="registered">Registrado</string>
+
+    <string name="error_name">Nombre requerido</string>
+
+    <string name="logout">Cerrar sesión</string>
 </resources>

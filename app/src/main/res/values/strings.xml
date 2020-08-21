@@ -13,4 +13,10 @@
     <string name="error_password">Password is required</string>
     <string name="logged_in">Logged in</string>
     <string name="no_match">No match</string>
+
+    <string name="registered">Registered</string>
+
+    <string name="error_name">Name is required</string>
+
+    <string name="logout">Logout</string>
 </resources>
