@@ -95,7 +95,7 @@ public class AppPreferences {
 
     public double getDouble(String key){
         try {
-            return Double.parseDouble(sharedPreferences.getString(key, 0));
+            return Double.parseDouble(sharedPreferences.getString(key, "0"));
         } catch (NumberFormatException e){
             return 0;
         }
