@@ -3,6 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
+        android:id="@+id/clean_list"
+        android:title="@string/clean_list"
+        app:showAsAction="never"/>
+
+    <item
         android:id="@+id/logout"
         android:title="@string/logout"
         app:showAsAction="never"

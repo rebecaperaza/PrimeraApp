@@ -25,4 +25,8 @@
     <string name="add">Agregar</string>
     <string name="cancel">Cancelar</string>
 
+    <string name="want_to_delete">Esta seguro que desea eliminarlo?</string>
+    <string name="yes">Sí</string>
+    <string name="clean_list">Limpiar lista</string>
+
 </resources>
